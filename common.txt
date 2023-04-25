@@ -7,8 +7,7 @@ function b(){
 }
 
 
-function a(master) {b
-
+function a(master,exp) {
 
 }
 
